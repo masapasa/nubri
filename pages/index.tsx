@@ -16,7 +16,7 @@ export default function Home() {
         <div className="flex flex-col-reverse sm:flex-row items-start">
           <div className="flex flex-col pr-12">
             <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-black dark:text-white">
-              Doze
+              Nubri
             </h1>
             <h2 className="mt-2 text-gray-700 dark:text-gray-200 mb-4">
               Biomedical data pipeline and analysis{" "}
@@ -28,7 +28,7 @@ export default function Home() {
           </div>
           <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 mr-auto">
             <Image
-              alt="Doze"
+              alt="Nubri"
               height={176}
               width={176}
               src="/images/doze_heal.jpg"
