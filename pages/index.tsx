@@ -16,10 +16,10 @@ export default function Home() {
         <div className="flex flex-col-reverse sm:flex-row items-start">
           <div className="flex flex-col pr-12">
             <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-black dark:text-white">
-              Nubri
+              Doze
             </h1>
             <h2 className="mt-2 text-gray-700 dark:text-gray-200 mb-4">
-              Biomedical data pipeline and analysis{" "}
+              Biomedical data pipeline and analysis. Our first product is wound management platform.
               <span className="font-semibold">Doze</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-16">
