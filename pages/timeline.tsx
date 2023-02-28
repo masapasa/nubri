@@ -11,9 +11,7 @@ export default function Timeline() {
         Timeline
       </h1>
       <h2 className="text-gray-700 dark:text-gray-200 mb-8 mt-4">
-        This is a timeline of my current and previous roles. It{"'"}s not a
-        complete list of everything I{"'"}ve done, but it{"'"}s a good overview
-        of my career thus far.
+        This is a timeline of our product development and launch. 
       </h2>
       <div className="p-1 grid place-items-center">
         <ol className="relative border-l border-gray-200 dark:border-gray-700">
@@ -34,16 +32,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Rising Sun Pictures{" "}
+              International Expansion
               <span className="bg-gray-200 dark:bg-[#1d1f22] text-sm font-medium mr-2 px-2.5 py-0.5 rounded ml-3">
-                Current
+                Expansion
               </span>
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              IT Administrator
+              We will make it available in more countries.
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              May 2022 → Present
+              May 2026 → Future
             </time>
             <p className="mb-4 text-base font-normal text-gray-700 dark:text-gray-200">
               ...
@@ -66,20 +64,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Pixel Zoo
+              Lauch
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Systems Administrator
+              Product Launch
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Jun 2021 → May 2022
+              Jun 2025 → May 2026
             </time>
             <p className="text-base font-normal text-gray-700 dark:text-gray-200">
-              Provided clear and concise support for ~200 employee{"'"}s both
-              internal and remote. Deployed various networking and hardware
-              upgrades across the studio. Improved the efficiency of various
-              software and tools. Built and deployed a ~500TB CephFS Cluster to
-              upgrade studio{"'"}s existing storage solution.
+              We plan to make it available to the public.
             </p>
           </li>
           <li className="mb-10 ml-6">
@@ -99,19 +93,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Dev Demand Co
+              Testing
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Junior Cloud Engineer
+              Beta testing
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              May 2020 → May 2021
+              May 2024 → May 2025
             </time>
             <p className="text-base font-normal text-gray-700 dark:text-gray-200">
-              Learned to troubleshoot server related issues. Worked in the
-              administration of a small business to develop documentation and
-              processes. Began looking into the inner workings of Kubernetes and
-              participated in the development of client related projects.
+              We will be testing this out for a year to see how it goes. For medical application, it is important to get it right. So we will select a bigger group of people to test it out.
             </p>
           </li>
           <li className="mb-10 ml-6">
@@ -131,22 +122,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Conetix
+              Testing
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Technical Support Staff
+              Test & Feedback
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Sep 2018 → May 2020
+              Sep 2023 → May 2024
             </time>
             <p className="text-base font-normal text-gray-700 dark:text-gray-200">
-              Provided professional phone and email support across a wide range
-              of various web related technologies including WordPress, Office
-              365, Plesk, Windows Server and Linux. Adept at the production of
-              writing understandable technical processes and procedures.
-              Proficient at providing clear and concise support to customers
-              over the phone quickly and efficiently. Participated in the
-              maintenance of various Windows and Linux based servers.
+              After developing the initial version of the site, we will be intensively alpha testing on the application. We will be looking for feedback on the application, and will be working to improve the application based on the feedback we receive.
             </p>
           </li>
           <li className="mb-10 ml-6">
@@ -166,20 +151,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Camp Highroad
+              Research & Development
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Christian Camp Counsellor
+              Product Development
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              May 2018 → Sep 2018
+              May 2023 → Sep 2023
             </time>
             <p className="text-base font-normal text-gray-700 dark:text-gray-200">
-              Participated in leading campers through various team building and
-              extra-curricular activities. Invested and developed meaningful
-              relationships with campers, parents and other counsellors.
-              Travelled from East Coast to West Coast USA and made great friends
-              along the way.
+              After finishing the ideation and product design, we will strart the development of the product. We will be using the latest technologies to build the product.
             </p>
           </li>
           <li className="mb-10 ml-6">
@@ -199,18 +180,16 @@ export default function Timeline() {
               </svg>
             </span>
             <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-              Hungry Jack{"'"}s
+              Initiation
             </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Crew Member
+              Product Ideation
             </time>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-600 dark:text-gray-400">
-              Nov 2016 → May 2018
+              Nov 2022 → April 2023
             </time>
             <p className="text-base font-normal text-gray-700 dark:text-gray-200">
-              Picked up strong time management skills and the ability to work in
-              a stressful environment. Participated in the training of Crew
-              Members in appropriate processes and procedures.
+              Various interviews carried out with patients and doctors to find out the best way to improve the patient experience.
             </p>
           </li>
         </ol>
