@@ -4,8 +4,8 @@ export default function Projects() {
   return (
     <>
       <NextSeo
-        title="Projects | Zacchary Puckeridge"
-        description="View Zacchary's completed and active projects"
+        title="Projects | Nubri"
+        description="View Nubri's completed and active projects"
       />
       <div className="grid place-items-center max-w-2xl mx-auto">
         <div className="p-4">
