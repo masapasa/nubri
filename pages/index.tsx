@@ -20,7 +20,7 @@ export default function Home() {
             </h1>
             <h2 className="mt-2 text-gray-700 dark:text-gray-200 mb-4">
               Biomedical data pipeline and analysis{" "}
-              <span className="font-semibold">Doze</span>
+              <span className="font-semibold">Nubri</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-16">
               We help you make sense of multimodal biomedical data and build pipelines to automate your analysis.
